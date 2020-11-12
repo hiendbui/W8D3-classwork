@@ -8,7 +8,7 @@ Array.prototype.uniq = function () {
     return newArray;
 };
 
-// console.log([1, 2, 2, 3, 3, 3].uniq());
+console.log([1, 2, 2, 3, 3, 3].uniq());
 
 Array.prototype.twoSum = function () {
     const newArray = [];
@@ -22,7 +22,7 @@ Array.prototype.twoSum = function () {
     return newArray;
 }
 
-// console.log([1,3,-1,5,6,8,-7,7,-5].twoSum())
+console.log([1,3,-1,5,6,8,-7,7,-5].twoSum())
 
 Array.prototype.transpose = function () {
     const newArray = [];
