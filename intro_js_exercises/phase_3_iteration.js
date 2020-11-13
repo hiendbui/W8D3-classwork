@@ -28,5 +28,5 @@ String.prototype.substrings = function () {
     return subStrArr
 }
 
-let cogito = "I think"
+let cogito = "I think, therefore I am"
 console.log(cogito.substrings())
