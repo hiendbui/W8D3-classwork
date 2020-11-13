@@ -50,4 +50,4 @@ console.log(arr.myReduce(function (acc, el) {
 // with initialValue
 console.log(arr.myReduce(function (acc, el) {
     return acc + el;
-}, 25)); // => 31
+}, 25)); // => 31`
